@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  margin-top: 55px;
+}
+
+input {
+  color: white !important;
 }
 
 .App-logo {
